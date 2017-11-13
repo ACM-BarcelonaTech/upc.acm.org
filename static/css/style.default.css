@@ -481,7 +481,7 @@ ul.list-style-none {
   top: -32px;
 }
 
-.affix-top .navbar {
+#all header .navbar {
   position: absolute;
   top: 0;
   right: 0;
@@ -489,6 +489,13 @@ ul.list-style-none {
   width: 100%;
   background-color: transparent;
 }
+
+#all header .affix .navbar {
+  background-color: white;
+  -webkit-box-shadow: 0 0 5px #cccccc;
+  box-shadow: 0 0 5px #cccccc;
+}
+
 
 .navbar-affixed-top.affix {
   position: fixed;
