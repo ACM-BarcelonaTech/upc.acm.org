@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+  <style>
+    .responsiveCal {
+      position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+    }
+
+    .responsiveCal iframe {
+      position: absolute; top:0; left: 0; width: 100%; height: 100%;
+    }
+  </style>
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "top.html" . }}
+
+          {{ partial "nav.html" . }}
+
+        </header>
+        <div id="heading-breadcrumbs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>{{ .Title }}</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                      <div class="responsiveCal">
+                        <iframe src="https://calendar.google.com/calendar/embed?src=cfgu071i3pp09h6gira9dhpvts%40group.calendar.google.com&ctz=Europe/Madrid" style="border: 0" frameborder="0" scrolling="no"></iframe>
+                      </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <br/>
+        <br/>
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
