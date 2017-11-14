@@ -1,10 +1,12 @@
-+++
-title = "Migrate from Jekyll"
-date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
-banner = "img/banners/banner-5.jpg"
-+++
+---
+title: Migrate from Jekyll PRUEBA
+date: '2015-10-10T13:07:31+02:00'
+banner: img/banners/banner-5.jpg
+categories:
+  - lorem
+tags:
+  - ipsum
+---
 
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
