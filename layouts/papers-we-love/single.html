@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header class="inverted">
+
+          {{ partial "top.html" . }}
+
+          {{ partial "nav.html" . }}
+
+        </header>
+        <div id="heading-breadcrumbs" class="papers-we-love no-margin">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1><img class="img-responsive" src="/img/dbconfig.svg" alt="Papers We Love"></h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <section class="mini bar background-white">
+          <div class="container text-center">
+            <div class="col-md-offset-2 col-md-8">
+              <div class="heading ">
+                <h2>¿Qué es Papers We Love?</h2>
+              </div>
+              <p class="lead no-margin">{{ i18n "papersDescription" }}</p>
+              <p class="lead">
+                <a target="_blank" href="https://github.com/papers-we-love/papers-we-love">
+                  <div class="box-simple float">
+                      <div class="icon">
+                          <i class="fa fa-file-text-o"></i>
+                      </div>
+                  </div>
+                </a>
+                <a target="_blank" href="https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter">
+                  <div class="box-simple float">
+                      <div class="icon">
+                          <i class="fa fa-users"></i>
+                      </div>
+                  </div>
+                </a>
+              </p>
+            </div>
+          </div>
+        </section>
+        <br/>
+        <br/>
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
