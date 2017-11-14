@@ -29,9 +29,13 @@
           <div class="container text-center">
             <div class="col-md-offset-2 col-md-8">
               <div class="heading ">
-                <h2>¿Qué es Papers We Love?</h2>
+                <h2>{{ i18n "papersTitle" }}</h2>
               </div>
               <p class="lead no-margin">{{ i18n "papersDescription" }}</p>
+              <br/>
+              <p class="lead no-margin">
+                <b>{{ i18n "papersDescription2" }}</b>
+              </p>
               <p class="lead">
                 <a target="_blank" href="https://github.com/papers-we-love/papers-we-love">
                   <div class="box-simple float">
@@ -51,8 +55,17 @@
             </div>
           </div>
         </section>
-        <br/>
-        <br/>
+        <section class="mini bar background-gray">
+          <br/>
+          <div class="container text-center">
+            <div class="col-md-12">
+              <div class="heading">
+                <h2>{{ i18n "papersTitle2" }}</h2>
+              </div>
+              <iframe class="meetup-widget" src="http://meetu.ps/3fx8DM" frameborder="0"></iframe>
+            </div>
+          </div>
+        </section>
         {{ partial "footer.html" . }}
 
     </div>

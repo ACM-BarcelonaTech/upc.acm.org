@@ -3629,7 +3629,16 @@ header.inverted a {
   color: #777 !important;
 }
 
+.inverted .navbar {
+  border-bottom: 1px solid #dedede;
+}
+
 .bar.mini {
-  padding: 20px 0;
-  margin: 0
+  padding: 40px 0 60px 0;
+  margin: 0;
+}
+
+.meetup-widget {
+  width: 225px;
+  height: 410px;
 }
