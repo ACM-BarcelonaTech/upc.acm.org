@@ -15,6 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }}</title>
   <meta name="author" content="{{ .Site.Author.name }}" />
+  <meta name="image" content="https://upc.acm.org/img/acm-chapter.png">
 
   {{ if .Keywords }}
   <meta name="keywords" content="{{ delimit .Keywords ", " }}">
@@ -27,6 +28,21 @@
   {{ else if .Site.Params.DefaultDescription }}
   <meta name="description" content="{{ .Site.Params.DefaultDescription }}">
   {{ end }}
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Association for Computing Machinery - UPC">
+  <meta name="twitter:description" content="Welcome to Barcelona ACM Chapter, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession.">
+  <meta name="twitter:site" content="@bcnTechACM">
+  <meta name="twitter:creator" content="@bcnTechACM">
+  <meta name="twitter:image:src" content="https://pbs.twimg.com/profile_images/929405401560428545/ACCi18pL_400x400.png">
+  <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+  <meta name="og:title" content="Association for Computing Machinery - UPC">
+  <meta name="og:description" content="Welcome to Barcelona ACM Chapter, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession.">
+  <meta name="og:image" content="{{ .Site.BaseURL }}img/acm-chapter.png">
+  <meta name="og:url" content="{{ .Site.BaseURL }}">
+  <meta name="og:site_name" content="Association for Computing Machinery - UPC">
+  <meta name="og:type" content="website">
 
   {{ .Hugo.Generator }}
 
@@ -59,8 +75,23 @@
   ` | safeHTML }}
 
   <!-- Favicon and apple touch icons-->
-  <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ .Site.BaseURL }}favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ .Site.BaseURL }}favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ .Site.BaseURL }}favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ .Site.BaseURL }}favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ .Site.BaseURL }}favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ .Site.BaseURL }}favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ .Site.BaseURL }}favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ .Site.BaseURL }}favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="{{ .Site.BaseURL }}favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}favicons/favicon-16x16.png">
+  <link rel="manifest" href="{{ .Site.BaseURL }}favicons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="{{ .Site.BaseURL }}favicons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
   <!-- owl carousel css -->
 
   <link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet">
