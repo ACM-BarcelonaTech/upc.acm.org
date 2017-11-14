@@ -18,6 +18,26 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Featured Image", name: "banner", widget: "image"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: tags, "widget": "list", default: ['term_1', 'term_2']}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "feature"
+    label: "Features"
+    folder: "data/features"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Weight", name: "weight", widget: "number"}
+  - name: "client"
+    label: "Clients"
+    folder: "data/clients"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Url", name: "url", widget: "string"}
