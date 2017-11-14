@@ -3600,3 +3600,19 @@ a.list-group-item.active > .badge,
 .juicer-feed {
   padding: 40px 0 !important;
 }
+
+.box-simple.float {
+  display: inline-block;
+  min-height: auto !important;
+  margin: 0 20px;
+}
+
+.twitter .icon {
+  color: #009ef7;
+  border-color: #009ef7;
+}
+
+.instagram .icon {
+  color: #dd1f65;
+  border-color: #dd1f65;
+}
