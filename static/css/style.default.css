@@ -1748,6 +1748,11 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 20px 0;
   margin-bottom: 40px;
 }
+
+header.single-page li {
+  background: #424242;
+}
+
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
@@ -3631,6 +3636,10 @@ header.inverted a {
 
 .inverted .navbar {
   border-bottom: 1px solid #dedede;
+}
+
+.inverted li {
+  background-color: white;
 }
 
 .bar.mini {
