@@ -3647,6 +3647,10 @@ header.inverted a {
   margin: 0;
 }
 
+.text-left-i {
+  text-align: left !important;
+}
+
 .meetup-widget {
   width: 225px;
   height: 410px;
