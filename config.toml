@@ -72,17 +72,16 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>UPC ACM Student Chapter.</strong>
+        <br>Campus Nord, UPC
+        <br> Calle Jordi Girona, 1-3, 
+        <br> 08034 Barcelona
+        <br> Spain
         <br>
-        <strong>Great Britain</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "41.389551"
+    longitude = "2.113487"
 
 [Permalinks]
     blog = "/news/:year/:month/:day/:filename/"
