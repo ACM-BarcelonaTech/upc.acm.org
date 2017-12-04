@@ -120,9 +120,9 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-users"
-    title = "We want you!"
+    title = "We love new friends!"
     subtitle = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
-    link_url = "https://slack.com/magic-link-here"
+    link_url = "https://slack.upcacm.org/"
     link_text = "Become a member"
 
 [params.clients]
