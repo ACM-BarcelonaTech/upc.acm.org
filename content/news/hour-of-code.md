@@ -3,7 +3,7 @@ title = "Hour of Code: Introduction to Python"
 date = "2017-11-11T21:49:20+02:00"
 tags = ["python", "programming", "scripting"]
 categories = ["programming", "python"]
-banner = "img/logos/pythonLogo.png"
+banner = "img/logos/pythonLogo.svg"
 author = "Jordi Montes"
 +++
 
