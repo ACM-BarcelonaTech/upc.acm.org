@@ -72,17 +72,16 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>UPC ACM Student Chapter.</strong>
+        <br>Campus Nord, UPC
+        <br> Calle Jordi Girona, 1-3, 
+        <br> 08034 Barcelona
+        <br> Spain
         <br>
-        <strong>Great Britain</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "41.389551"
+    longitude = "2.113487"
 
 [Permalinks]
     blog = "/news/:year/:month/:day/:filename/"
@@ -104,7 +103,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -120,13 +119,13 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-users"
-    title = "We want you!"
-    subtitle = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
-    link_url = "https://slack.com/magic-link-here"
-    link_text = "Become a member"
+    title = "We love new friends!"
+    subtitle = "Do you want to become part of one of the best tech communities in Barcelona?"
+    link_url = "https://slack.upcacm.org/"
+    link_text = "Join our slack"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -136,4 +135,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "News"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    subtitle = "Last news about our chapter, university and technology"

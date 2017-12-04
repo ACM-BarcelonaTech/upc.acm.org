@@ -71,7 +71,10 @@
   translation: "on"
 
 - id: whoDescription
-  translation: "Lorem fistrum al ataquerl pecador está la cosa muy malar. Caballo blanco caballo negroorl ese hombree se calle ustée te voy a borrar el cerito amatomaa se calle ustée no puedor qué dise usteer."
+  translation: "ACM, the world’s largest educational and scientific computing society, delivers resources that advance computing as a science and a profession. UPC ACM Student Chapter was chartered in September 2017. Since then many technical events have been conducted. We as a team of ACM Student Chapter members, which includes students, professors and professionals work towards the fulfilment of the vision of ACM."
+
+- id: calendarDescription
+  translation: "¡Don't miss it!"
 
 - id: papersDescription
   translation: "Papers We Love is a repository of academic computer science papers and a community who loves reading them."
