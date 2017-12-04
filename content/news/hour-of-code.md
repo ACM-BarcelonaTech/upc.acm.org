@@ -1,9 +1,9 @@
 +++
-title = "Hour of Code: Introduccion a Python"
+title = "Hour of Code: Introduction to Python"
 date = "2017-11-11T21:49:20+02:00"
 tags = ["python", "programming", "scripting"]
 categories = ["programming", "python"]
-banner = "img/banners/banner-4.jpg"
+banner = "img/logos/pythonLogo.png"
 author = "Jordi Montes"
 +++
 
