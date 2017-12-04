@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communitiy on Association for Computing Machinery - UPC</title>
+    <link>https://acm-upc.netlify.com/tags/communitiy/</link>
+    <description>Recent content in Communitiy on Association for Computing Machinery - UPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2017 - ACM UPC - All rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Oct 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://acm-upc.netlify.com/tags/communitiy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers We Love Barcelona</title>
+      <link>https://acm-upc.netlify.com/news/papers-we-love/</link>
+      <pubDate>Tue, 10 Oct 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/news/papers-we-love/</guid>
+      <description>Barcelona PWL Chapter What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.</description>
+    </item>
+    
+  </channel>
+</rss>

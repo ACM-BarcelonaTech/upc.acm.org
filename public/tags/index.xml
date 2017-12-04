@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Association for Computing Machinery - UPC</title>
+    <link>https://acm-upc.netlify.com/tags/</link>
+    <description>Recent content in Tags on Association for Computing Machinery - UPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2017 - ACM UPC - All rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Oct 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://acm-upc.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Communitiy</title>
+      <link>https://acm-upc.netlify.com/tags/communitiy/</link>
+      <pubDate>Tue, 10 Oct 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/tags/communitiy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://acm-upc.netlify.com/tags/papers/</link>
+      <pubDate>Tue, 10 Oct 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/tags/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://acm-upc.netlify.com/tags/programming/</link>
+      <pubDate>Sat, 11 Nov 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://acm-upc.netlify.com/tags/python/</link>
+      <pubDate>Sat, 11 Nov 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>https://acm-upc.netlify.com/tags/scripting/</link>
+      <pubDate>Sat, 11 Nov 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://acm-upc.netlify.com/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
