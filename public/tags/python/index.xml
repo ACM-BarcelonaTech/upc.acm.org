@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Association for Computing Machinery - UPC</title>
-    <link>https://acm-upc.netlify.com/tags/python/</link>
+    <link>https://upcacm.org/tags/python/</link>
     <description>Recent content in Python on Association for Computing Machinery - UPC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2017 - ACM UPC - All rights reserved.</copyright>
     <lastBuildDate>Sat, 11 Nov 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://acm-upc.netlify.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://upcacm.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hour of Code: Introduction to Python</title>
-      <link>https://acm-upc.netlify.com/news/hour-of-code/</link>
+      <link>https://upcacm.org/news/hour-of-code/</link>
       <pubDate>Sat, 11 Nov 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://acm-upc.netlify.com/news/hour-of-code/</guid>
+      <guid>https://upcacm.org/news/hour-of-code/</guid>
       <description>Introducció a Python
 Amb motiu de l&amp;rsquo;Hour of Code (HoC), l&amp;rsquo;associació UPC ACM Student Chapter, organitza una sessió d&amp;rsquo;introducció a Python.
 Python està guanyant molta popularitat en els últims anys i ja és el primer llenguatge d&amp;rsquo;introducció a la programació en les universitats d&amp;rsquo;Estats Units. Python és fàcil d&amp;rsquo;usar, potent i versàtil, la qual cosa el converteix en una excel·lent opció tant per a principiants com per a experts. El fet de ser un llenguatge de scripting ha fet que moltes empreses l&amp;rsquo;utilitzin com a llenguatge per prototipatge o fins i tot com a llenguatge per fer el desenvolupament principal.</description>

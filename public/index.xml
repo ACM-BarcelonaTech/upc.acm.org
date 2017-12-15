@@ -2,22 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Association for Computing Machinery - UPC</title>
-    <link>https://acm-upc.netlify.com/</link>
+    <link>https://upcacm.org/</link>
     <description>Recent content on Association for Computing Machinery - UPC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2017 - ACM UPC - All rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Nov 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://acm-upc.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://upcacm.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>From Barcelona to Silicon Valley</title>
+      <link>https://upcacm.org/news/from-barcelona-to-silicon-valley/</link>
+      <pubDate>Wed, 29 Nov 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://upcacm.org/news/from-barcelona-to-silicon-valley/</guid>
+      <description>The UPC ACM Student Chapter organizes a talk on Dec 20 at 12:45 in FIB.
+The talk will be given by Cristian Canton. Cristian canton is a computer scientist in the field of artificial intelligence, working as a researcher at Facebook, Menlo Park. He will talk about his vision an experience to encourage other people to do the same.
+Abstract: &amp;ldquo;Joining one of the many corporations or startups in the flourishing Silicon Valley market seems like a hard to reach dream.</description>
+    </item>
+    
+    <item>
       <title>Hour of Code: Introduction to Python</title>
-      <link>https://acm-upc.netlify.com/news/hour-of-code/</link>
+      <link>https://upcacm.org/news/hour-of-code/</link>
       <pubDate>Sat, 11 Nov 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://acm-upc.netlify.com/news/hour-of-code/</guid>
+      <guid>https://upcacm.org/news/hour-of-code/</guid>
       <description>Introducció a Python
 Amb motiu de l&amp;rsquo;Hour of Code (HoC), l&amp;rsquo;associació UPC ACM Student Chapter, organitza una sessió d&amp;rsquo;introducció a Python.
 Python està guanyant molta popularitat en els últims anys i ja és el primer llenguatge d&amp;rsquo;introducció a la programació en les universitats d&amp;rsquo;Estats Units. Python és fàcil d&amp;rsquo;usar, potent i versàtil, la qual cosa el converteix en una excel·lent opció tant per a principiants com per a experts. El fet de ser un llenguatge de scripting ha fet que moltes empreses l&amp;rsquo;utilitzin com a llenguatge per prototipatge o fins i tot com a llenguatge per fer el desenvolupament principal.</description>
@@ -25,57 +36,57 @@ Python està guanyant molta popularitat en els últims anys i ja és el primer l
     
     <item>
       <title>Papers We Love Barcelona</title>
-      <link>https://acm-upc.netlify.com/news/papers-we-love/</link>
+      <link>https://upcacm.org/news/papers-we-love/</link>
       <pubDate>Tue, 10 Oct 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://acm-upc.netlify.com/news/papers-we-love/</guid>
+      <guid>https://upcacm.org/news/papers-we-love/</guid>
       <description>Barcelona PWL Chapter What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://acm-upc.netlify.com/admin/</link>
+      <link>https://upcacm.org/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acm-upc.netlify.com/admin/</guid>
+      <guid>https://upcacm.org/admin/</guid>
       <description>  ACM-UPC Content Manager       </description>
     </item>
     
     <item>
       <title>Calendar</title>
-      <link>https://acm-upc.netlify.com/calendar/</link>
+      <link>https://upcacm.org/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acm-upc.netlify.com/calendar/</guid>
+      <guid>https://upcacm.org/calendar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://acm-upc.netlify.com/contact/</link>
+      <link>https://upcacm.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acm-upc.netlify.com/contact/</guid>
+      <guid>https://upcacm.org/contact/</guid>
       <description>We are here to help you Are you curious about something?
 Please feel free to contact us.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://acm-upc.netlify.com/faq/</link>
+      <link>https://upcacm.org/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acm-upc.netlify.com/faq/</guid>
+      <guid>https://upcacm.org/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Papers We Love</title>
-      <link>https://acm-upc.netlify.com/papers-we-love/</link>
+      <link>https://upcacm.org/papers-we-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://acm-upc.netlify.com/papers-we-love/</guid>
+      <guid>https://upcacm.org/papers-we-love/</guid>
       <description></description>
     </item>
     

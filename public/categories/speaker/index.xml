@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speaker on Association for Computing Machinery - UPC</title>
+    <link>https://upcacm.org/categories/speaker/</link>
+    <description>Recent content in Speaker on Association for Computing Machinery - UPC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2017 - ACM UPC - All rights reserved.</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://upcacm.org/categories/speaker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Barcelona to Silicon Valley</title>
+      <link>https://upcacm.org/news/from-barcelona-to-silicon-valley/</link>
+      <pubDate>Wed, 29 Nov 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://upcacm.org/news/from-barcelona-to-silicon-valley/</guid>
+      <description>The UPC ACM Student Chapter organizes a talk on Dec 20 at 12:45 in FIB.
+The talk will be given by Cristian Canton. Cristian canton is a computer scientist in the field of artificial intelligence, working as a researcher at Facebook, Menlo Park. He will talk about his vision an experience to encourage other people to do the same.
+Abstract: &amp;ldquo;Joining one of the many corporations or startups in the flourishing Silicon Valley market seems like a hard to reach dream.</description>
+    </item>
+    
+  </channel>
+</rss>
