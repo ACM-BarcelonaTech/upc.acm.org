@@ -1,4 +1,4 @@
-baseurl = "https://upcacm.org"
+baseurl = "https://upcacm.org/"
 title = "Association for Computing Machinery - UPC"
 description = "Welcome to Barcelona ACM Chapter, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession."
 theme = "hugo-universal-theme"
